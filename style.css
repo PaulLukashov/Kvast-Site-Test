@@ -36,7 +36,6 @@ h3 {
 .container {
 	width: 800px;
 	margin: 0 auto;
-	/*outline: 2px solid yellow;*/
 }
 
 .page_header {
@@ -802,9 +801,6 @@ ul.footer_nav {
 	width: 205px;
 	height: auto;
 	margin-right: 90px;
-}
-
-.copyright {
 	font-size: 14px;
 	color: #989898;
 }
